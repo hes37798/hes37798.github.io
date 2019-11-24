@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title> Play!Sit!Stay! </title>
+	<style type="text/css">
+		P {font-family:Arial}
+		BODY {background-color:#CC99CC}
+		TH {background-color:white}
+		<table style="background-color:#66CCFF">
+	</style>
+</head>
+<body>
+	<H1>Play!Sit!Stay!</h1>
+	<H2>Services</h2>
+	<p>We offer a varity of services with affordable prices. Services include:</p>
+	<table border=1>
+	<tr>
+		<th>Dog Walking</th><th>Day Visits</th><th>House Sitting</th><th>transporting</th><th>Photos with Fito</th>
+	</tr>
+	<tr>
+		<th>$15</th><th>$20</th><th>$75</th><th>$2 per mile</th><th>$50</th>
+	</tr>
+	</table>
+	<H2>Sitters</h2>
+	<p>All our sitters are animal lovers and pet owners! They include:</P>
+	<ul>
+		<li>Morgan</li>
+		<li>Alex</li>
+		<li>Gary</li>
+		<li>Matt</li>
+		<li>Annabel</li>
+		<li>Hope</li>
+	</ul>
+	<H2>About Us</h2>
+	<p> Play!Sit!Stay! was founded by Morgan Pippn in 2017 to address the lack of affordable pet care in Athens, GA. Our services are availble for all pets, regardless of species, size, or needs.</P>
+	<P> Our primary services are walks, visits, and house sitting. All service are customized for you and your pets' needs. Visits and house sitting are great because your pet can stay in the comfort of your home.</p>
+	<p>Link to our <A href ="https://www.facebook.com/play.sit.stay.athens/"> Facebook page </A> </p>
+</body>
+</html>
+
